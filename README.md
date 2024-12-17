@@ -4,7 +4,7 @@
 This project implements a **Convolutional Neural Network (CNN)** to classify images of **cats** and **dogs**. The model uses the **Keras** library with TensorFlow as its backend. The dataset includes two sets of images:
 - **Training set**: 1000 images of cats and 1000 images of dogs.
 - **Test set**: Images for evaluation to measure model performance.
-
+- **Test set**: Images too large to upload to github, it has been uploaded to google drive: https://drive.google.com/file/d/14yOHJ4vHZ2ZTO7lLhTbsGW2XP1-iDN6Z/view?usp=drive_link
 ---
 
 ## **Table of Contents**
