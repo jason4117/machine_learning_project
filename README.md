@@ -157,6 +157,9 @@ else:
 
 You can evaluate the model's performance by observing the training and validation accuracy.
 
+Check out this medium post for more information!
+https://medium.com/@szhang15/building-an-image-classifier-with-cnns-a-step-by-step-guide-a4de2d90946f
+
 ---
 
 ## **Customization**
